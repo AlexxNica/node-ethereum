@@ -1,3 +1,5 @@
+# deprecated, go to https://github.com/ethereumjs
+
 ethereum-client [![Build Status](https://travis-ci.org/wanderer/node-ethereum.svg?branch=master)](https://travis-ci.org/wanderer/node-ethereum)
 ===============
 
